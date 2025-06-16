@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: 300;
+}
+
+button{
+    width: 250px;
+    height: 70px;
+    padding: auto;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    background-color: #008000;
+}
+
+div{
+    font-size: 32px;
+    font-weight: 300;
+}
